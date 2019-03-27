@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SampleMicroservice
+
+server:
+  port: 8090
