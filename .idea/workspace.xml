@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb195fd-9e6a-4a99-ac62-beaf29e27494" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/concorde-eureka-server/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties">
+        <entry file="file://$PROJECT_DIR$/config/concorde-eureka-server/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+            <state relative-caret-position="475">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -48,6 +49,7 @@
         <option value="$PROJECT_DIR$/config/EurekaZuulGatewayService/application.yml" />
         <option value="$PROJECT_DIR$/config/SampleMicroservice/application.properties" />
         <option value="$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties" />
+        <option value="$PROJECT_DIR$/config/concorde-eureka-server/application.properties" />
       </list>
     </option>
   </component>
@@ -64,8 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,7 +82,7 @@
               <item name="config-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="config-repo" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="EurekaZuulGatewayService" type="462c0819:PsiDirectoryNode" />
+              <item name="concorde-eureka-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="config-repo" type="b2602c69:ProjectViewProjectNode" />
@@ -94,6 +94,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,12 +146,14 @@
       <workItem from="1553779847517" duration="621000" />
       <workItem from="1553781001392" duration="14000" />
       <workItem from="1553783092226" duration="7000" />
-      <workItem from="1553788672026" duration="41000" />
+      <workItem from="1553788672026" duration="1266000" />
+      <workItem from="1553850881839" duration="604000" />
+      <workItem from="1555928950061" duration="1417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6638000" />
+    <option name="totallyTimeSpent" value="9884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
@@ -204,10 +208,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/EurekaZuulGatewayService/application.yml" />
-    <entry file="file://$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties">
+    <entry file="file://$PROJECT_DIR$/config/concorde-eureka-server/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        <state relative-caret-position="475">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
