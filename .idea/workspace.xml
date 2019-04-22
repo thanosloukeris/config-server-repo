@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8eb195fd-9e6a-4a99-ac62-beaf29e27494" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/EurekaZuulGatewayService/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/concorde-eureka-server/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/concorde-eureka-server/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/concorde-eureka-server/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/concorde-eureka-server/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="76">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -148,12 +147,12 @@
       <workItem from="1553783092226" duration="7000" />
       <workItem from="1553788672026" duration="1266000" />
       <workItem from="1553850881839" duration="604000" />
-      <workItem from="1555928950061" duration="1417000" />
+      <workItem from="1555928950061" duration="1565000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9884000" />
+    <option name="totallyTimeSpent" value="10032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1366" height="770" extended-state="6" />
@@ -210,8 +209,8 @@
     <entry file="file://$PROJECT_DIR$/config/EurekaZuulGatewayService/application.yml" />
     <entry file="file://$PROJECT_DIR$/config/concorde-eureka-server/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
