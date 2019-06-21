@@ -1,2 +1,3 @@
-some:
-  property: Property common for all apps
+spring:
+  jackson:
+    time-zone: "UTC"
